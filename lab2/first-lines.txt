@@ -1,0 +1,8 @@
+==> bash/info.txt <==
+GNU Bourne Again Shell (Bash)
+
+==> zsh/info.txt <==
+Z Shell (Zsh)
+
+==> fish/info.txt <==
+Friendly Interactive Shell (Fish)
